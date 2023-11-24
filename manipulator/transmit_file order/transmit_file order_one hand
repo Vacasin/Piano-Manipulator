@@ -1,0 +1,53 @@
+import time
+import serial.tools.list_ports
+
+# 从文本文件中读取指令
+def read_commands_from_file(file_path):
+    commands = []
+    try:
+        with open(file_path, 'r') as file:
+            lines = file.readlines()
+            for line in lines:
+                command = line.strip()
+                commands.append(command)
+    except FileNotFoundError:
+        print(f"文件 {file_path} 未找到")
+    return commands
+
+if __name__ == '__main__':
+    commands = read_commands_from_file('/home/pi/Desktop/order.txt')
+
+    if not commands:
+        print("未找到任何指令")
+    else:
+        ports_list = list(serial.tools.list_ports.comports())
+        if len(ports_list) <= 0:
+            print("未找到串口设备")
+        else:
+            print("可用的串口设备：")
+            print("%-10s %-30s %-10s" % ("num", "name", "number"))
+            for i in range(len(ports_list)):
+                comport = list(ports_list[i])
+                comport_number, comport_name = comport[0], comport[1]
+                print("%-10s %-30s %-10s" % (i, comport_name, comport_number))
+
+            port_num = ports_list[0][0]
+            print("默认选择串口：%s" % port_num)
+            ser = serial.Serial(port=port_num, baudrate=115200, bytesize=serial.EIGHTBITS, stopbits=serial.STOPBITS_ONE, timeout=0.5)
+
+            if not ser.isOpen():
+                print("打开串口失败")
+            else:
+                print("成功打开串口：%s" % ser.name)
+
+                for command in commands:
+                    data = command
+                    print("发送数据：%s" % data)
+                    write_len = ser.write(data.encode('utf-8'))
+                    time.sleep(0.5)  # 发送下一条指令之前的延迟
+
+                ser.close()
+                if ser.isOpen():
+                    print("串口仍然打开")
+                else:
+                    print("串口已关闭")
