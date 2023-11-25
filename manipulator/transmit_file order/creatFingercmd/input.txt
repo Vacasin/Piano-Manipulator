@@ -1,0 +1,229 @@
+Starting Event loop
+Currently playing finger: 1
+Hand position: 1005
+Side: 1
+Press duration: 4.0
+Move duration: 0.03
+-----------------
+Currently playing finger: 1
+Hand position: 510
+Side: -1
+Press duration: 1.0
+Move duration: 0.03
+-----------------
+Currently playing finger: 4
+Hand position: 630
+Side: -1
+Press duration: 1.0
+Move duration: 0.03
+-----------------
+Currently playing finger: 3
+Hand position: 645
+Side: -1
+Press duration: 1.0
+Move duration: 0.03
+-----------------
+Currently playing finger: 2
+Hand position: 465
+Side: -1
+Press duration: 1.0
+Move duration: 0.03
+-----------------
+Currently playing finger: 1
+Hand position: 450
+Side: -1
+Press duration: 1.0
+Move duration: 0.03
+-----------------
+Currently playing finger: 4
+Hand position: 570
+Side: -1
+Press duration: 1.0
+Move duration: 0.03
+-----------------
+Currently playing finger: 3
+Hand position: 570
+Side: -1
+Press duration: 1.0
+Move duration: 0.03
+-----------------
+Currently playing finger: 2
+Hand position: 390
+Side: -1
+Press duration: 1.0
+Move duration: 0.03
+-----------------
+Currently playing finger: 1
+Hand position: 390
+Side: -1
+Press duration: 1.0
+Move duration: 0.03
+-----------------
+Currently playing finger: 4
+Hand position: 990
+Side: 1
+Press duration: 0.5
+Move duration: 0.03
+-----------------
+Currently playing finger: 3
+Hand position: 540
+Side: -1
+Press duration: 1.0
+Move duration: 0.03
+-----------------
+Currently playing finger: 3
+Hand position: 960
+Side: 1
+Press duration: 0.5
+Move duration: 0.03
+-----------------
+Currently playing finger: 2
+Hand position: 930
+Side: 1
+Press duration: 0.5
+Move duration: 0.03
+-----------------
+Currently playing finger: 4
+Hand position: 525
+Side: -1
+Press duration: 1.0
+Move duration: 0.03
+-----------------
+Currently playing finger: 1
+Hand position: 930
+Side: 1
+Press duration: 0.5
+Move duration: 0.03
+-----------------
+Currently playing finger: 2
+Hand position: 885
+Side: 1
+Press duration: 0.5
+Move duration: 0.03
+-----------------
+Currently playing finger: 2
+Hand position: 375
+Side: -1
+Press duration: 1.0
+Move duration: 0.03
+-----------------
+Currently playing finger: 4
+Hand position: 840
+Side: 1
+Press duration: 0.5
+Move duration: 0.03
+-----------------
+Currently playing finger: 3
+Hand position: 855
+Side: 1
+Press duration: 2.0
+Move duration: 0.03
+-----------------
+Currently playing finger: 1
+Hand position: 420
+Side: -1
+Press duration: 1.0
+Move duration: 0.03
+-----------------
+Currently playing finger: 4
+Hand position: 540
+Side: -1
+Press duration: 1.0
+Move duration: 0.03
+-----------------
+Currently playing finger: 2
+Hand position: 840
+Side: 1
+Press duration: 0.5
+Move duration: 0.03
+-----------------
+Currently playing finger: 3
+Hand position: 540
+Side: -1
+Press duration: 1.0
+Move duration: 0.03
+-----------------
+Currently playing finger: 1
+Hand position: 840
+Side: 1
+Press duration: 1.5
+Move duration: 0.03
+-----------------
+Currently playing finger: 2
+Hand position: 360
+Side: -1
+Press duration: 1.0
+Move duration: 0.03
+-----------------
+Currently playing finger: 4
+Hand position: 960
+Side: 1
+Press duration: 4.0
+Move duration: 0.03
+-----------------
+Currently playing finger: 1
+Hand position: 375
+Side: -1
+Press duration: 1.0
+Move duration: 0.03
+-----------------
+Currently playing finger: 2
+Hand position: 555
+Side: -1
+Press duration: 1.0
+Move duration: 0.03
+-----------------
+Currently playing finger: 1
+Hand position: 540
+Side: -1
+Press duration: 1.0
+Move duration: 0.03
+-----------------
+Currently playing finger: 2
+Hand position: 300
+Side: -1
+Press duration: 1.0
+Move duration: 0.03
+-----------------
+Currently playing finger: 1
+Hand position: 315
+Side: -1
+Press duration: 1.0
+Move duration: 0.03
+-----------------
+Currently playing finger: 4
+Hand position: 915
+Side: 1
+Press duration: 0.5
+Move duration: 0.03
+-----------------
+Currently playing finger: 2
+Hand position: 870
+Side: 1
+Press duration: 0.5
+Move duration: 0.03
+-----------------
+Currently playing finger: 2
+Hand position: 495
+Side: -1
+Press duration: 1.0
+Move duration: 0.03
+-----------------
+Currently playing finger: 1
+Hand position: 870
+Side: 1
+Press duration: 0.5
+Move duration: 0.03
+-----------------
+Currently playing finger: 2
+Hand position: 930
+Side: 1
+Press duration: 0.5
+Move duration: 0.03
+-----------------
+Currently playing finger: 1
+Hand position: 450
+Side: -1
+Press duration: 1.0
+Move duration: 0.03
+-----------------
